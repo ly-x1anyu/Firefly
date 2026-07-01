@@ -37,3 +37,5 @@ Firefly-docs/
 cache/
 package/
 .obsidian/
+.vercel
+.env*
