@@ -4,6 +4,7 @@ published: 2022-04-01 23:23:28
 pinned: false
 category: 生活分享
 draft: false
+slug: 01
 image: https://api.boxmoe.com/random.php?1
 ---
 

@@ -5,6 +5,7 @@ pinned: false
 tags: [CentOS7, VMware, 宝塔]
 category: 技术分享
 draft: false
+slug: 07
 image: https://api.boxmoe.com/random.php?7
 ---
 

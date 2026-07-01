@@ -1,6 +1,6 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 **羡鱼** ，一个每天摆烂无所事事的咸鱼。
 
 ## 🛠️ 关于本站
 
@@ -11,7 +11,7 @@
 
 **🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
+**🏠我的博客： [https://blog.cuteleaf.cn](https://x1anyu.cn/)**
 
 **📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
 

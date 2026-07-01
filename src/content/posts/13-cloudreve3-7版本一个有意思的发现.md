@@ -5,6 +5,7 @@ pinned: false
 tags: [bug？, 发现, 技术交流]
 category: 技术交流
 draft: false
+slug: 13
 image: https://api.boxmoe.com/random.php?13
 ---
 
