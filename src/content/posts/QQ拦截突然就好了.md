@@ -5,7 +5,7 @@ pinned: false
 tags: [拦截, 申诉]
 category: 日常吐槽
 draft: false
-image: https://api.boxmoe.com/random.php?
+image: https://api.boxmoe.com/random.php?15
 ---
 
 今天QQ不小心点到博客链接，竟然成功进来了

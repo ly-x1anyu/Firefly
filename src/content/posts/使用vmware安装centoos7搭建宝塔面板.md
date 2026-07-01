@@ -5,7 +5,7 @@ pinned: false
 tags: [CentOS7, VMware, 宝塔]
 category: 技术分享
 draft: false
-image: https://api.boxmoe.com/random.php?
+image: https://api.boxmoe.com/random.php?7
 ---
 
 最近专业结课作业要求使用虚拟机搭建VPN服务器连接外网和内网，做完之后想到还可以使用虚拟机安装 Linux 系统来搭建本地服务器
