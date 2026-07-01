@@ -5,7 +5,7 @@ pinned: false
 tags: [bug？, 发现, 技术交流]
 category: 技术交流
 draft: false
-image: https://api.boxmoe.com/random.php?224
+image: https://api.boxmoe.com/random.php?
 ---
 
 昨天更新了Cloudreve到3.7.1版本，发现一个很有意思的情况

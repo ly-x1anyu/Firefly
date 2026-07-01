@@ -5,7 +5,7 @@ pinned: false
 tags: [申述, 腾讯]
 category: 日常吐槽
 draft: false
-image: https://api.boxmoe.com/random.php?237
+image: https://api.boxmoe.com/random.php?
 ---
 
 昨天用qq想打开网站看一看，结果提示非官方页面
